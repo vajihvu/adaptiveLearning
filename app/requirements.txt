@@ -1,0 +1,6 @@
+Flask
+pandas
+numpy
+scikit-surprise
+streamlit
+jupyterlab
