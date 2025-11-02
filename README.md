@@ -32,5 +32,3 @@ The model expects a dataset with the following columns:
  - Learning_Style - Visual, Auditory, or Kinesthetic
  - Feedback_Score - Overall feedback score
  - Dropout_Likelihood - Likelihood of dropping out (0–1 scale)
-
-## Project Structure
