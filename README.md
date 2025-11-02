@@ -35,6 +35,6 @@ The model expects a dataset with the following columns:
 
 ## Future Improvements
 
--Incorporate content-based and hybrid recommendation models
--Include more advanced student behavior analytics
--Integrate UI for better visualization and feedback collection
+- Incorporate content-based and hybrid recommendation models
+- Include more advanced student behavior analytics
+- Integrate UI for better visualization and feedback collection
