@@ -1,10 +1,6 @@
 # adaptiveLearning
 
-# Adaptive Learning Recommendation System
-
 This project implements a **personalized learning recommendation system** that suggests suitable learning materials for students using collaborative filtering. It leverages the **Surprise** library for model training, along with **Pandas**, **NumPy**, and **Streamlit** for data handling, analysis, and visualization.
-
----
 
 ## Features
 - Collaborative filtering using the Surprise library (SVD / KNNBaseline)
