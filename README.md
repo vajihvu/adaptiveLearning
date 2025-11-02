@@ -32,3 +32,9 @@ The model expects a dataset with the following columns:
  - Learning_Style - Visual, Auditory, or Kinesthetic
  - Feedback_Score - Overall feedback score
  - Dropout_Likelihood - Likelihood of dropping out (0–1 scale)
+
+## Future Improvements
+
+-Incorporate content-based and hybrid recommendation models
+-Include more advanced student behavior analytics
+-Integrate UI for better visualization and feedback collection
