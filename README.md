@@ -17,9 +17,9 @@ This project implements a **personalized learning recommendation system** that s
 
 The model expects a dataset with the following columns:
 
- Student_ID - Unique ID for each student
- Age - Age of the student
- Gender - Gender of the student
+ - Student_ID - Unique ID for each student
+ - Age - Age of the student
+ - Gender - Gender of the student
  Education - Education level
  Course_Name - Name of the course
  Time_Spent_on_Videos - Total time spent watching course videos
