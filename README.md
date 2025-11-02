@@ -7,39 +7,30 @@ This project implements a **personalized learning recommendation system** that s
 - Adaptive rating system combining engagement, feedback, and dropout likelihood
 - Course recommendations tailored to student learning styles
 - Model persistence for reuse and evaluation
-- Streamlit web app for interactive recommendations
-
----
 
 ## Tech Stack
 - **Python**  
 - **Pandas**, **NumPy**, **scikit-surprise**  
-- **Streamlit** for front-end interface  
 - **Pickle** for model persistence
 
----
-
 ## Dataset
+
 The model expects a dataset with the following columns:
 
-| Column Name | Description |
-|--------------|-------------|
-| Student_ID | Unique ID for each student |
-| Age | Age of the student |
-| Gender | Gender of the student |
-| Education | Education level |
-| Course_Name | Name of the course |
-| Time_Spent_on_Videos | Total time spent watching course videos |
-| Quiz_Attempts | Number of quizzes attempted |
-| Quiz_Scores | Average quiz score |
-| Forum_Participation | Forum activity level |
-| Assignment_Completion_Rate | Percentage of assignments completed |
-| Final_Exam_Score | Final exam performance |
-| Engagement_Level | Engagement rating |
-| Learning_Style | Visual, Auditory, or Kinesthetic |
-| Feedback_Score | Overall feedback score |
-| Dropout_Likelihood | Likelihood of dropping out (0–1 scale) |
-
----
+ Student_ID - Unique ID for each student
+ Age - Age of the student
+ Gender - Gender of the student
+ Education - Education level
+ Course_Name - Name of the course
+ Time_Spent_on_Videos - Total time spent watching course videos
+ Quiz_Attempts - Number of quizzes attempted
+ Quiz_Scores - Average quiz score
+ Forum_Participation - Forum activity level
+ Assignment_Completion_Rate - Percentage of assignments completed
+ Final_Exam_Score - Final exam performance
+ Engagement_Level - Engagement rating
+ Learning_Style - Visual, Auditory, or Kinesthetic
+ Feedback_Score - Overall feedback score
+ Dropout_Likelihood - Likelihood of dropping out (0–1 scale)
 
 ## Project Structure
